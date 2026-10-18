@@ -1,0 +1,4 @@
+Timestamp,Building_ID,Premises / Unit ID,Total_Building_Units,Vehicle_ID,Stream (BEAM Plus MW),Item Description,Weight (kg),Is_Recyclable,Treatment Status,Consolidation Batch ID,Downstream Collector,Ticket Ref,Audit Status,BEAM_Credit_Target
+2026-10-13 14:21:37,SAVANNAH_3A,HK NT TKO 3 CHI SHIN ST SAVANNAH 3A 11B,2,AL-01,Aluminum/Metal,Toothpaste Tube,0.03,True,Pending Routing,HUB-TKO-202610-04M,HK Metal Sim,TEST 01,TEST,Excluded / Pending
+2026-10-14 19:08:08,LINGNAN_LKK,Lingnan LKK 101,2,AL-01,Plastic,500ml PET Bottle,0.025,True,Pending Routing,HUB-TKO-202610-04P,HK Plastic Sim,TEST 02,TEST,Excluded / Pending
+2026-10-14 19:10:21,SAVANNAH_3A,HK NT TKO 3 CHI SHIN ST SAVANNAH 3A 11B,2,AL-01,Plastic,PET Bottle,0.025,True,Pending Routing,HUB-TKO-202610-04P,HK Plastic Sim,TEST 02,TEST,Excluded / Pending

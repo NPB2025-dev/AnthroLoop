@@ -1,0 +1,9 @@
+Timestamp,Premises / Unit ID,Stream (BEAM Plus MW),Item Description,Weight (kg),Treatment Status,Building_ID,Vehicle_ID,Is_Recyclable
+2026-10-13 14:21:37,HK NT TKO 3 CHI SHIN ST SAVANNAH 3A 11B,Aluminum/Metal,Toothpaste Tube,0.03,Compacted & Routed,SAVANNAH_3A,AL-01,True
+2026-10-14 19:08:08,Lingnan LKK 101,Plastic,500ml PET Bottle,0.025,Pending Routing,LINGNAN_LKK,AL-01,True
+2026-10-14 19:10:21,HK NT TKO 3 CHI SHIN ST SAVANNAH 3A 11B,Plastic,PET Bottle,0.025,Pending Routing,SAVANNAH_3A,AL-01,True
+2026-10-18 23:32:09,SAVANNAH 3A 11B,Aluminum/Metal,Crushed Soda Can,0.015,Pending Routing,SAVANNAH_3A,TEST01,True
+2026-10-18 23:32:37,SAVANNAH 3A 11B,Aluminum/Metal,Crushed Soda Can,0.015,Pending Routing,SAVANNAH_3A,TEST01,True
+2026-10-18 23:35:32,SAVANNAH 3A 11B,Plastic,Crumpled plastic bag,0.005,Pending Routing,SAVANNAH_3A,TEST01,True
+2026-10-18 23:36:26,SAVANNAH 3A 11B,Aluminum/Metal,Soda Can,0.015,Pending Routing,SAVANNAH_3A,TEST01,True
+2026-10-18 23:40:36,SAVANNAH 3A 11B,Aluminum/Metal,Crushed Can,0.015,Pending Routing,SAVANNAH_3A,TEST01,True
